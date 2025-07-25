@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este projeto foi desenvolvido com foco na criação de um sistema de gerenciamento de banco de dados voltado para um serviço de streaming musical, inspirado no funcionamento do Spotify. A ideia surgiu da interação com o ChatGPT para facilitar a organização de listas de reprodução e análise de hábitos de escuta musical. O sistema visa estruturar dados de maneira eficiente, permitindo consultas e análises sobre o comportamento dos usuários e o conteúdo disponível na plataforma.
+Este projeto foi desenvolvido com foco na criação de um sistema de gerenciamento de banco de dados voltado para um serviço de streaming musical, inspirado no funcionamento do Spotify. A ideia surgiu da interação da equipe, uma solução para facilitar a organização de listas de reprodução e análise de hábitos de escuta musical. O sistema visa estruturar dados de maneira eficiente, permitindo consultas e análises sobre o comportamento dos usuários e o conteúdo disponível na plataforma.
 
 ## Integrantes da Equipe
 
