@@ -37,4 +37,5 @@ O objetivo principal deste projeto é **desenvolver um sistema de gerenciamento 
 Criar a **espinha dorsal de dados** que sustenta uma plataforma musical moderna, visando **facilitar funcionalidades como recomendações personalizadas, estatísticas de uso, e melhor experiência de navegação musical** para os usuários.
 
 
-
+## SGBD utilizado
+O seguinte projeto foi desenvolvido, por motivos de teste, em dois  SGBD diferentes: SQLite e MySQL
