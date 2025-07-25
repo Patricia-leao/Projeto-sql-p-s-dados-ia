@@ -39,3 +39,7 @@ Criar a **espinha dorsal de dados** que sustenta uma plataforma musical moderna,
 
 ## SGBD utilizado
 O seguinte projeto foi desenvolvido, por motivos de teste, em dois  SGBD diferentes: SQLite e MySQL
+
+## Ferramentas dos Diagramas
+(https://app.diagrams.net/
+dbschema a partir do MySQL)
