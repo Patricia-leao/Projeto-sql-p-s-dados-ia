@@ -13,6 +13,10 @@ Este projeto foi desenvolvido com foco na criação de um sistema de gerenciamen
 - Reginaldo Paiva
 - Rodrigo Luiz
 
+## link do repositório
+
+https://github.com/Patricia-leao/Projeto-sql-p-s-dados-ia
+
 ## Descrição do Problema
 
 Com a expansão dos serviços de música digital, há uma crescente necessidade de **gerenciar e organizar grandes volumes de dados** relacionados a usuários, artistas, álbuns, músicas, playlists e o histórico de reprodução. A ausência de um sistema bem estruturado pode dificultar funcionalidades essenciais como recomendações personalizadas, recuperação rápida de informações e a análise de preferências musicais.
