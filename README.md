@@ -1,4 +1,4 @@
-# Projeto: Gerenciamento de Listas de Reprodução e Histórico de Músicas no Spotify com Apoio do ChatGPT
+# Projeto: Gerenciamento de Listas de Reprodução e Histórico de Músicas no Spotify
 
 ## Contexto
 
